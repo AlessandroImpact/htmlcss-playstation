@@ -1,0 +1,16 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/*HEADER*/
+
+.ms-header-top{
+    background-color: black;
+}
+
+.header-top-logo {
+    width: 5rem;
+}
