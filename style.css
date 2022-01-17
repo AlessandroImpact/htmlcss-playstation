@@ -131,4 +131,43 @@ header .ms_nav_hover:hover{
 }
 /* FINE GALLERY */
 
+/* SECTION PLAYSTATION E ACCESSORI DISPLAY*/
 
+
+/* bottone blu maggiori info */
+.ms_btn_blue{
+    background-color: #0070D1;
+    color: #fff;
+}
+
+.ms_btn_blue:hover{
+    color: #fff;
+    border: 1px solid #fff;
+    outline: 2px solid #0070D1;
+}
+
+/* image play */
+.ms_play5 img{
+    width: 100%;
+}
+
+/* border bottom image play */
+.ms_selected{
+    border-bottom: 2px solid #0070D1;
+}
+
+/* item accessori play opacità */
+.ms_opacity{
+    filter: opacity(0.5);
+    border-bottom: 2px solid transparent;
+}
+
+/* item accessori play opacità hover + linea sotto */
+.ms_opacity:hover{
+    cursor: pointer;
+    filter: opacity(1);
+    
+    border-bottom: 2px solid #0070D1;
+    height: 100%;
+}
+/* FINE ACCESSORI */
