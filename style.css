@@ -111,3 +111,24 @@ header .ms_nav_hover:hover{
     border: 2px solid black;
     outline: 4px solid #CD3D0F;
 }
+
+/* JUMBOTRON 1 GALLERY */
+
+/* BORDER */
+.ms_image_uno{
+    padding: 2px 2px;
+    border: 2px solid #0070D1;
+}
+
+.ms_images:hover{
+    padding: 2px 2px;
+    border: 2px solid #0070D1;
+    transform: scale(1);
+}
+/* RADIUS */
+.ms_rounded{
+    border-radius: 20px;
+}
+/* FINE GALLERY */
+
+
