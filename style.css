@@ -73,7 +73,7 @@ header .ms_nav_hover:hover{
 
 .ms_bg_jumbo{
     height: 700px;
-    background-image: url(../img/jumbo-bg.png);
+    background-image: url(img/jumbo-bg.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -209,3 +209,36 @@ header .ms_nav_hover:hover{
    outline: 2px solid rgba(255, 255, 255, 0.5);
 }
 
+
+/* SECTION PLAYSTATION PLUS */
+.ms_bg_darkblue{
+    background-color: #161c3b;
+}
+
+.ms_btn_white{
+    color: black;
+    background-color: #fff;
+}
+
+.ms_btn_white:hover{
+    border: 1px solid #161c3b;
+    outline: 2px solid #fff;
+}
+
+/* FOOTER */
+.footer-menu{
+    background-color: #00439C;
+}
+
+.ms_play_logo{
+    width: 20%;
+    filter: brightness(0) invert(1);
+}
+
+.ms_list{
+    list-style-type: none;
+}
+
+.ms_sony{
+    width: 30%;
+}
