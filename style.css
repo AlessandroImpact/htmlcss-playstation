@@ -171,3 +171,17 @@ header .ms_nav_hover:hover{
     height: 100%;
 }
 /* FINE ACCESSORI */
+
+/* JUMBOTRON 2 IT TAKES TWO */
+.ms_bg_takes_two{
+    height: 700px;
+    background-image: url(img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.ms_logo_takes_two{
+    width: 40%;
+}
+
