@@ -190,4 +190,22 @@ header .ms_nav_hover:hover{
     background-color: #1F1F1F;
 }
 
+/*PLAYSTATION PLUS SECTION */
+.ms_bg_lightgray{
+    background-color: #BEBCBB;
+}
+
+.ms_plus img{
+    width: 50%;
+}
+
+.ms_btn_transparent{
+    color: #0070D1;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.ms_btn_transparent:hover{
+   border: 1px solid #BEBCBB;
+   outline: 2px solid rgba(255, 255, 255, 0.5);
+}
 
