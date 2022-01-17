@@ -64,3 +64,50 @@ header .ms_nav_hover:hover{
     outline: 4px solid black;
 }
 /* FINE HEADER */
+
+
+/* JUMBOTRON BACKGOUND - FIRST PART */
+.jumbotron {
+    margin-top: 115px;
+}
+
+.ms_bg_jumbo{
+    height: 700px;
+    background-image: url(../img/jumbo-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/* POSITION RELATIVE */
+.ms_relative{
+    position: relative;
+}
+
+/* POSITION ABSOLUTE */
+.ms_absolute_bottom{
+    position: absolute;
+    bottom: 20px;
+}
+
+/* GRANDEZZA LOGO RETURNALS */
+.ms_logo_returnals{
+    width: 50%;
+}
+
+/* ALTEZZA */
+.ms_height{
+    height: 100%;
+}
+
+/* BTN ACQUISTA ORA */
+.ms_btn_orange{
+    background-color: #CD3D0F;
+    color: #fff;
+}
+
+.ms_btn_orange:hover{
+    color: #fff;
+    border: 2px solid black;
+    outline: 4px solid #CD3D0F;
+}
